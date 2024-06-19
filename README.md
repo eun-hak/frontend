@@ -36,10 +36,11 @@ ___
 
 ### 프론트엔드
 
-|퉁이리(PL)|이영진|조성래|
-|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/77133565?v=4" alt="tooooo1" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/83450991?v=4" alt="truewayy" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/37147909?v=4" alt="Denebe" width="100" height="100">|
-|[tooooo1](https://github.com/tooooo1)|[truewayy](https://github.com/truewayy)|[Denebe](https://github.com/Denebe)|
+|퉁이리(PL)|이영진|조성래|조기범| 
+|:-:|:-:|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/77133565?v=4" alt="tooooo1" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/83450991?v=4" alt="truewayy" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/37147909?v=4" alt="Denebe" width="100" height="100">|<img src="https://github.com/eun-hak/frontend/assets/95483959/b0dd1bb3-9ae2-454f-bff3-5c56c6ade38c" alt="Example Image" width="100" height="100">
+|[tooooo1](https://github.com/tooooo1)|[truewayy](https://github.com/truewayy)|[Denebe](https://github.com/Denebe)|[eunhak](https://github.com/eun-hak)|
+
 
 <br>
 
